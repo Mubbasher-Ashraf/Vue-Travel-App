@@ -1,0 +1,3 @@
+<template>
+  <h1>Invoice List</h1>
+</template>
